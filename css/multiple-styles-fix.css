@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main-container {
+	width:907px;
+	margin:0 auto;
+	padding:0 22px 0 22px;
+	background:#FFFFFF;
+	border:1px solid #bdbdbd;
+	height:auto;
+	margin-bottom:30px;
+	}
+.content-divion1 {
+	width:67%;
+	padding:23px 0 23px 0;
+	}
+.content-divion2 {
+	width:48%;
+	float:left;
+	padding:23px 0 23px 0;
+	}
+.content-divion3 {
+	width:48%;
+	float:right;
+	padding:23px 0 23px 0;
+	}
+
+.content-divion2 img {
+	padding:0 0px 0 5px;
+	}
+.content-divion3 img {
+	padding:0 0px 0 5px;
+	}
+#banner {
+	width:950px;
+	margin:0 auto;
+	}
+ul.list-for-divion1 {
+	margin:0px;
+	padding:0px;
+	width:100%;
+	}
+ul.list-for-divion1 li {
+	width:40%;
+	list-style:url(../images/list-icon.jpg);
+	float:left;
+	margin:0 10px 0 10px;
+	line-height:24px;
+	text-align:left;
+	}
+.page-img {
+	width:30%;
+	 float:right;
+	 padding:0 10px 0 10px;
+	 }
+.page-img img {
+	 float:right;
+	 padding:30px 0px 0 0px;
+	 }
+ul.list-for-divion {
+	margin:0px;
+	padding:0px;
+	width:100%;
+	}
+ul.list-for-divion li {
+	width:40%;
+	list-style:none;
+	padding:0 10px 0 10px;
+	line-height:24px;
+	}
+ul.list-for-divion li a {
+	text-decoration:none;
+	color:#949494;
+	}
+h3 span {
+	color:#949494; 
+	font-size:12px;
+	
+	}
+.content-divion4 {
+	width:100%;
+	float:left;
+	padding:23px 0 23px 0;
+	}
+
+.content-divion4 a img {
+	width:20%;
+	margin:20px;
+	}
